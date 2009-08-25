@@ -1,0 +1,10 @@
+{
+    "name": "jsontemplate",
+    "description": "A simple templating engine",
+    "keywords": ["jsontemplate", "json", "template"],
+    "author": "",
+    "email": "nathan.stott@whiteboard-it.com",
+    "dependencies": [],
+    "lib": "lib"
+}
+
